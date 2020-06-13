@@ -2,6 +2,7 @@
 Calculate with Convolutional Neural Network
 
 You can use it in jupyter notebook with python language
+
 Loss :  190.02191 Accuracy:  2.9768977
 Loss :  64.35182 Accuracy:  1.980198
 Loss :  46.75236 Accuracy:  0.10231023
